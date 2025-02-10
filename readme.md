@@ -1,13 +1,7 @@
 ## 📝 Go To Do App
 This repository contains a To-Do List application Challenge made with HTML, CSS & JavaScript.
 
-![Todo App Preview](https://ToDo_list.png)
-
-# 📝 Lista de Tareas (Todo List)
-
-Una aplicación web interactiva para gestionar tareas diarias, construida con HTML, CSS, JavaScript.
-
-![Vista previa de la aplicación](./assets/preview.png)
+![Vista previa de la aplicación](./assets/ToDo_list.png)
 
 ## ✨ Características
 
